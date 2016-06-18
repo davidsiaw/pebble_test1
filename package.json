@@ -1,0 +1,24 @@
+{
+    "author": "davidsiaw@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test1",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "test1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "74838b14-b15a-45db-92ed-c3845a9a5e7b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
